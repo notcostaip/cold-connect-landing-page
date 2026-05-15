@@ -1,25 +1,34 @@
-# ColdConnect - Landing Page
+<div align="center">
 
-A landing page oficial para **ColdConnect**, a única automação de WhatsApp 100% ilimitada do mercado baseada em navegador.
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=230&section=header&text=ColdConnect&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=A%20%C3%9Anica%20Automa%C3%A7%C3%A3o%20Ilimitada%20de%20WhatsApp&descAlignY=55&descSize=18&descColor=fca5a5" />
 
-## Quick Start
+<br/>
 
-1. **Instalar dependências**
-   ```bash
-   npm install
-   ```
+<!-- BADGES -->
+<div>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</div>
 
-2. **Rodar servidor de desenvolvimento**
-   ```bash
-   npm run dev
-   ```
+<br/>
 
-3. **Build para produção**
-   ```bash
-   npm run build
-   ```
+A landing page oficial para **ColdConnect**, a única automação de WhatsApp **100% ilimitada** do mercado baseada em navegador.
 
-## Funcionalidades
+</div>
+
+<br/>
+
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- FUNCIONALIDADES -->
+<div align="center">
+
+### &nbsp; 🚀 Funcionalidades
+
+</div>
 
 - **Design Moderno**: Interface responsiva com efeitos de glassmorphism, gradientes e animações suaves (Framer Motion).
 - **Seção de Planos**: Cards de preços interativos com links diretos para checkout (Starter, Pro, Business).
@@ -28,35 +37,90 @@ A landing page oficial para **ColdConnect**, a única automação de WhatsApp 10
 - **Efeitos Visuais**: Fundo dinâmico com efeitos de neblina e neve personalizados.
 - **SEO Otimizado**: Meta tags e estrutura semântica para melhor indexação.
 
-## Tecnologias
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- TECH STACK -->
+<div align="center">
+
+### &nbsp; 🛠️ Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" alt="Tech" />
+
+<br/><br/>
+
+</div>
 
 - **Core**: [React 19](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/)
 - **Estilização**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Animações**: [Framer Motion](https://www.framer.com/motion/)
 - **Ícones**: [Lucide React](https://lucide.dev/)
 
-## Estrutura do Projeto
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- HOW TO RUN -->
+<div align="center">
+
+### &nbsp; 📦 Quick Start
+
+</div>
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/notcostaip/cold-connect-landing-page.git
+cd cold-connect-landing-page
+```
+
+### 2. Instale as dependências
+```bash
+npm install
+```
+
+### 3. Inicie o servidor
+```bash
+npm run dev
+```
+
+### 4. Build para Produção
+```bash
+npm run build
+```
+
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- ESTRUTURA -->
+<div align="center">
+
+### &nbsp; 📁 Estrutura do Projeto
+
+</div>
 
 ```
-/
-├── public/              # Arquivos estáticos (favicon, etc)
+cold-connect/
+├── public/              ← Arquivos estáticos (favicon, etc)
 ├── src/
-│   ├── components/      # Componentes reutilizáveis (Header, Pricing, Hero...)
-│   ├── pages/           # Páginas da aplicação
-│   ├── index.css        # Estilos globais e configuração Tailwind
-│   ├── main.tsx         # Ponto de entrada
-│   └── App.tsx          # Componente raiz
-├── package.json         # Dependências e scripts
-└── vite.config.ts       # Configuração do Vite
+│   ├── components/      ← Componentes reutilizáveis (Header, Pricing, Hero...)
+│   ├── pages/           ← Páginas da aplicação
+│   ├── index.css        ← Estilos globais e configuração Tailwind
+│   ├── main.tsx         ← Ponto de entrada
+│   └── App.tsx          ← Componente raiz
 ```
 
-## Scripts Disponíveis
+<br/>
 
-- `npm run dev`: Inicia o servidor local.
-- `npm run build`: Compila o projeto para produção.
-- `npm run preview`: Visualiza o build de produção localmente.
-- `npm run lint`: Executa a verificação de código (ESLint).
+<!-- FOOTER -->
+<div align="center">
 
-## Licença
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=130&section=footer" />
 
-Todos os direitos reservados a ColdConnect.
+<br/>
+
+**Todos os direitos reservados a ColdConnect.**
+<br/>
+Feito por [Costa](https://github.com/notcostaip) com ☕ e muita diversão.
+
+</div>
